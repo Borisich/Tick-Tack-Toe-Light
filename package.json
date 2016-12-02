@@ -20,12 +20,13 @@
   "dependencies": {
     "babel-preset-react": "^6.16.0",
     "babelify": "^7.3.0",
+    "browserify": "^13.1.1",
     "react": "^15.3.2",
     "react-dom": "^15.3.2",
     "socket.io": "^1.7.1",
+    "socket.io-client": "^1.7.1",
     "soundmanager2": "^2.97.20150601-a",
-    "watchify": "^3.7.0",
-    "browserify": "^13.1.1"
+    "watchify": "^3.7.0"
   },
   "devDependencies": {}
 }
