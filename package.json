@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Borisich/Tick-Tack-Toe.git"
+    "url": "git+https://github.com/Borisich/Tick-Tack-Toe-Light.git"
   },
   "author": "Ivan Khromov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Borisich/Tick-Tack-Toe/issues"
+    "url": "https://github.com/Borisich/Tick-Tack-Toe-Light/issues"
   },
-  "homepage": "https://github.com/Borisich/Tick-Tack-Toe#readme",
+  "homepage": "https://github.com/Borisich/Tick-Tack-Toe-Light#readme",
   "dependencies": {
     "babel-preset-react": "^6.16.0",
     "babelify": "^7.3.0",
